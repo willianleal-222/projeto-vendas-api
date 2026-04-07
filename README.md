@@ -27,3 +27,16 @@ uvicorn main:app --reload
 Python  
 Pandas  
 FastAPI  
+
+## 📊 Demonstração
+
+### 📌 Documentação da API
+<img width="1277" height="980" alt="Captura de tela 2026-04-06 140618" src="https://github.com/user-attachments/assets/3b42fca2-8ce4-4fe9-9e2e-a1e46e95533c" />
+
+
+### 📌 Faturamento por mês
+<img width="1279" height="981" alt="Captura de tela 2026-04-06 140617" src="https://github.com/user-attachments/assets/037dd2a1-0526-46da-9c4a-83edee1672c1" />
+
+
+### 📌 Top produtos
+<img width="1274" height="980" alt="Captura de tela 2026-04-06 140619" src="https://github.com/user-attachments/assets/4429492b-1a51-48c4-9856-58de00c34c0d" />
